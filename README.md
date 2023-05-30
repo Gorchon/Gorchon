@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on building a web application for a client, which involves developing both the frontend and backend components.
+* 🔭 I am currently studying computer science at the Monterrey Institute of Technology. 
 * 🌱 I’m currently learning about containerization and deployment using Docker and Kubernetes.
 * 👯 I’m looking to collaborate on open-source projects related to web development and exploring new technologies.
 * 🤔 I’m looking for help with improving my knowledge of data structures and algorithms to enhance my problem-solving skills.
