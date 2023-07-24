@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 * 🔭 I am currently studying computer science at the Monterrey Institute of Technology. 
-* 🌱 I’m currently learning about containerization and deployment using Docker and Kubernetes.
 * 👯 I’m looking to collaborate on open-source projects related to web development and exploring new technologies.
 * 🤔 I’m looking for help with improving my knowledge of data structures and algorithms to enhance my problem-solving skills.
 * 💬 Ask me about web development, JavaScript frameworks, database management, or any general programming concepts.
