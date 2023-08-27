@@ -1,7 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm José María Soto Valenzuela</h1>
+<h1 align="center">Hi 😄, I'm José María Soto Valenzuela</h1>
 <h3 align="center">A passionate computer sciencie student</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1343921-Developers-illustration-GIF>
+<img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+
+
 
 - 🔭 I’m currently working on [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
 
