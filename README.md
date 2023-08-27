@@ -1,5 +1,5 @@
 
-<h1 align="center"> (☞⌐▀͡ ͜ʖ͡▀ )☞ It's José María here  </h1>
+<h1 align="center"> It's José María here!  </h1>
 <h3 align="center">A passionate computer sciencie student</h3>
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
