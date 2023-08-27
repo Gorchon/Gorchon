@@ -1,25 +1,25 @@
 
-<h1 align="center">It's José María here ┗(▀̿ĺ̯▀̿ ̿)┓</h1>
+<h1 align="center"> (☞⌐▀͡ ͜ʖ͡▀ )☞ It's José María here  </h1>
 <h3 align="center">A passionate computer sciencie student</h3>
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 
+### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
-- 🔭 I’m currently working on [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
 
-- 🌱 I’m currently learning **React, Algorithms and data structures**
+-  I’m currently working on [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
 
-- 👯 I’m looking to collaborate on [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
+-  I’m currently learning **React, Algorithms and data structures**
 
-- 🤝 I’m looking for help with **Learning new programming topics**
+-  I’m looking to collaborate on [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
 
-- 👨‍💻 All of my projects are available at [https://gorchon.github.io/JoseMaria.github.io/](https://gorchon.github.io/JoseMaria.github.io/)
+-  I’m looking for help with **Learning new programming topics**
 
-- 💬 Ask me about **C+, python, React**
+-  Ask me about **C+, python, React**
 
-- 📫 How to reach me **chemasmas@outlook.es**
+-  How to reach me **chemasmas@outlook.es**
 
-- ⚡ Fun fact **I enjoy hit the gym**
+-  Fun fact **I enjoy hit the gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
