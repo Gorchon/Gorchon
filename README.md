@@ -20,7 +20,7 @@
 
 -  How to reach me **chemasmas@outlook.es**
 
--  Fun fact **I enjoy hit the gym**
+-  Fun fact **I enjoy hit the Gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
