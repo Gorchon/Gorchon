@@ -12,7 +12,7 @@
 
 -  I’m currently learning **React, Algorithms and data structures**
 
--  I’m looking to collaborate on [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
+-  I am currently collaborating on the[ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
 
 -  I’m looking for help with **Learning new programming topics**
 
