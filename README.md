@@ -10,13 +10,13 @@
 
 -  I’m currently working on [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
 
--  I’m currently learning **React, Algorithms and data structures**
+-  I’m currently learning **React and Databases for Data Scientists**
 
 -  I am currently collaborating on the [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
 
 -  I’m looking for help with **Learning new programming topics**
 
--  Ask me about **C+, python, React**
+-  Ask me about **C++, python, React and algorithms in general**
 
 -  How to reach me **chemasmas@outlook.es**
 
