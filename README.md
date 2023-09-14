@@ -8,7 +8,7 @@
 ### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
 
--  I’m currently working on [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
+-  I’m currently working on a project about [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
 
 -  I’m currently learning **React and Databases for Data Scientists**
 
