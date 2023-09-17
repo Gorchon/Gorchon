@@ -14,7 +14,7 @@
 
 -  I am currently collaborating on the [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
 
--  I’m looking for help with **Learning new programming topics**
+-  I’m looking for help with **Learning Machine Learning**
 
 -  Ask me about **C++, python, React and algorithms in general**
 
