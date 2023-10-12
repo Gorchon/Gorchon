@@ -8,13 +8,13 @@
 ### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
 
--  I’m currently working on a project about [AI Sudoku solver generator](https://github.com/Gorchon/sudoku)
+-  I’m currently working on a project about ** Aid mobility app for people with disabilities++
 
--  I’m currently learning **React and Databases for Data Scientists**
+-  I’m currently learning about **Deep learning and Databases for Data Scientists**
 
 -  I am currently collaborating on the [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
 
--  I’m looking for help with **Learning Machine Learning**
+-  I’m looking for help with **Machine Learning and Deep Learning**
 
 -  Ask me about **C++, python, React and algorithms in general**
 
