@@ -1,6 +1,6 @@
 
 <h1 align="center"> It's José María here!  </h1>
-<h3 align="center">A passionate computer science student who wants to use his passion and knowledge to make a better world</h3>
+<h3 align="center">A passionate computer science student who wants to use his passion and knowledge to craft a brighter reality</h3>
 
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
