@@ -18,7 +18,7 @@
 
 -  Ask me about **C++, python, React and algorithms in general**
 
--  How to reach me **chemasmas@outlook.es**
+-  To reach me send a Email to **chemasmas@outlook.es**
 
 -  Fun fact **I enjoy hit the Gym**
 
