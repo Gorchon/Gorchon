@@ -16,7 +16,7 @@
 
 -  I’m looking for help with **Machine Learning and Deep Learning**
 
--  Ask me about **C++, python, React and algorithms in general**
+-  Ask me about **C++, python, React, Nextjs and algorithms in general**
 
 -  To reach me send a Email to **chemasmas@outlook.es**
 
