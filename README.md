@@ -8,7 +8,7 @@
 ### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
 
--  I’m currently working on a project about **Aid mobility app for people with disabilities**
+-  Working on a project about **Aid mobility app ti help people with disabilities**
 
 -  I’m currently learning about **Deep learning, Databases for Data Scientists and the T3 stack**
 
