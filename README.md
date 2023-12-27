@@ -10,7 +10,7 @@
 
 -  I’m currently working on a project about **Aid mobility app for people with disabilities**
 
--  I’m currently learning about **Deep learning and Databases for Data Scientists**
+-  I’m currently learning about **Deep learning, Databases for Data Scientists and the T3 stack**
 
 -  I am currently collaborating on the [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
 
