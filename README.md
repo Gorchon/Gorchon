@@ -33,5 +33,6 @@
 
 
 <h3 align="left">📊 GitHub Stats:</h3>
+<a href=#><img src="contributionSnake.svg"></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gorchon&theme=tokyonight)](https://git.io/streak-stats)
