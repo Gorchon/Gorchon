@@ -12,7 +12,7 @@
 
 -  I’m currently learning about **Deep learning, Databases for Data Scientists and the T3 stack for development**
 
--  I am currently collaborating on the [ClubAlgoritmiaGDA website](https://github.com/ClubAlgoritmiaGDA/website/)
+-  I am part of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 650 members)
 
 -  I’m looking for help with **Machine Learning and Deep Learning**
 
