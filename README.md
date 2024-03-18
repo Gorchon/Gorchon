@@ -14,7 +14,7 @@
 
 -  I am part of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 650 members)
 
--  I’m looking for help with **Machine Learning and Deep Learning**
+-  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
 
 -  Ask me about **C++, python, React, React, Nextjs and algorithms in general**
 
