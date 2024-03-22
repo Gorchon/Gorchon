@@ -16,7 +16,7 @@
 
 -  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
 
--  Ask me about **C++, python, React, React, Nextjs and algorithms in general**
+-  Ask me about **C++, python, Flask, React, Nextjs, algorithms and more**
 
 -  To reach me send a Email to **chemasmas@outlook.es** or **A01254831@TEC.MX**
 
