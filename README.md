@@ -5,7 +5,7 @@
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 
-### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me....
+### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
 
 -  Working on a project about **Aid mobility app to help people with disabilitiees**
