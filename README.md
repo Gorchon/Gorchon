@@ -7,7 +7,7 @@
 
 ### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
-
+-  Data Science and AI Enthusiast
 
 -  I’m currently learning about **Transformers & Databases for Data Scientists**
 
@@ -18,8 +18,6 @@
 -  Ask me about **C++, python, Flask, React, Nextjs, algorithms and more**
 
 -  To reach me send a Email to **chemasmas@outlook.es** or **A01254831@TEC.MX**
-  
--  Data Science and AI Enthusiast
   
 -  Fun fact **I enjoy hit the Gym**
 
