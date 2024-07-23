@@ -11,7 +11,7 @@
 
 -  I’m currently learning about **Transformers & Databases for Data Scientists**
 
--  I am part of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 650 members)
+-  I am part of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 800 members)
 
 -  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
 
