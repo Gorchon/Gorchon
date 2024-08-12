@@ -7,9 +7,11 @@
 
 ### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
--  Data Science and AI Enthusiast 🤖💡 
-
--  I’m currently learning about **Transformers & Databases for Data Scientists**
+-  Data Science and Mathematical Techniques Enthusiast 🤖💡
+  
+-  I am currently learning **Bayesian Statistics!** 
+  
+-  Working as a **Software Engineer** at Sidepocket
 
 -  I am part of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 800 members)
 
@@ -27,11 +29,20 @@
 <a href="https://www.leetcode.com/gorchon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gorchon" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  And more...
+```javascript
+const Chema = {
+  pronouns: 'He' | 'Him',
+  pastCompanies:['Sidepocket Inc'],
+  code: ['Typescript', 'Python', 'Java', 'C', 'C++', 'Rust', 'Bash', 'SQL', 'R'],
+  lowCodeTools: ['Google Workspace', 'Figma', 'Notion', 'Slack', 'Obsidian'],
+  cloud: ['Azure', 'Firebase', 'Vercel','AWS'],
+  tools: ['React', 'React Native', 'Next.js', 'Astro', 'Zustand', 'NodeJS', 'NestJS', 'Keras', 'Scikit-learn', 'Pandas', 'NumPy', 'OpenCV', 'Streamlit', 'AWS', 'Firebase', 'Supabase', 'MySQL', 'Git', 'GitHub', 'Linux Shell', 'Linux Environment', 'T3 Stack'],
+  areas: ['Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
+  challenge: 'Design a community model that allows students to strengthen their professional profile in a creative, safe and collaborative environment.'
+}
+
+```
 
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gorchon&theme=tokyonight)](https://git.io/streak-stats)
 <a href=#><img src="contributionSnake.svg"></a>
