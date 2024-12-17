@@ -32,7 +32,7 @@
 ```javascript
 const Chema = {
   pronouns: 'He' | 'Him',
-  pastCompanies:['Sidepocket Inc','Phoenix Eye', Oracle ],
+  pastCompanies:['Sidepocket Inc','Phoenix Eye', 'Oracle' ],
   code: ['Typescript', 'Python', 'Java', 'C++', 'Rust', 'Bash', 'SQL', 'R'],
   lowCodeTools: ['Google Workspace', 'Figma', 'Notion', 'Slack', 'Obsidian'],
   cloud: ['Azure', 'Firebase', 'Vercel','AWS'],
