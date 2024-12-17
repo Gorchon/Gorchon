@@ -32,13 +32,12 @@
 ```javascript
 const Chema = {
   pronouns: 'He' | 'Him',
-  pastCompanies:['Sidepocket Inc'],
-  code: ['Typescript', 'Python', 'Java', 'C', 'C++', 'Rust', 'Bash', 'SQL', 'R'],
+  pastCompanies:['Sidepocket Inc','Phoenix Eye', Oracle ],
+  code: ['Typescript', 'Python', 'Java', 'C++', 'Rust', 'Bash', 'SQL', 'R'],
   lowCodeTools: ['Google Workspace', 'Figma', 'Notion', 'Slack', 'Obsidian'],
   cloud: ['Azure', 'Firebase', 'Vercel','AWS'],
   tools: ['React', 'React Native', 'Next.js', 'Astro', 'Zustand', 'NodeJS', 'NestJS', 'Keras', 'Scikit-learn', 'Pandas', 'NumPy', 'OpenCV', 'Streamlit', 'AWS', 'Firebase', 'Supabase', 'MySQL', 'Git', 'GitHub', 'Linux Shell', 'Linux Environment', 'T3 Stack'],
   areas: ['Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
-  challenge: 'Design a community model that allows students to strengthen their professional profile in a creative, safe and collaborative environment.'
 }
 
 ```
