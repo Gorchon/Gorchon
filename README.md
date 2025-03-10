@@ -13,7 +13,7 @@
   
 -  Working as a **Software Engineer** at Sidepocket
 
--  I am part of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 800 members)
+-  I am the president of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 900 members)
 
 -  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
 
