@@ -9,7 +9,7 @@
 
 -  Data Science and Mathematical Techniques Enthusiast 🤖💡
   
--  I am currently learning **Bayesian Statistics!** 
+-  I am currently working as a full time researcher at **Purdue University!** 
   
 -  Working as a **Software Engineer** at Sidepocket
 
