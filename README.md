@@ -21,7 +21,7 @@
 
 -  To reach me send a Email to **chemasmas@outlook.es** or **A01254831@TEC.MX**
   
--  Fun fact **I enjoy hit the Gym**
+-  Fun facts **I enjoy hit the Gym & and salsa dancing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
