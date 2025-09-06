@@ -32,12 +32,22 @@
 ```javascript
 const Chema = {
   pronouns: 'He' | 'Him',
-  pastCompanies:['Sidepocket Inc','Phoenix Eye', 'Oracle' ],
-  code: ['Typescript', 'Python', 'Java', 'C++', 'Rust', 'Bash', 'SQL', 'R'],
-  lowCodeTools: ['Google Workspace', 'Figma', 'Notion', 'Slack', 'Obsidian'],
-  cloud: ['Azure', 'Firebase', 'Vercel','AWS'],
-  tools: ['React', 'React Native', 'Next.js', 'Astro', 'Zustand', 'NodeJS', 'NestJS', 'Keras', 'Scikit-learn', 'Pandas', 'NumPy', 'OpenCV', 'Streamlit', 'AWS', 'Firebase', 'Supabase', 'MySQL', 'Git', 'GitHub', 'Linux Shell', 'Linux Environment', 'T3 Stack'],
-  areas: ['Cloud', 'Data', 'Product', 'Management', 'SoftSkills'],
+  pastCompanies: ['Phoenix Eye', 'Sidepocket Inc''Oracle' 'Purdue'],
+  code: ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'SQL', 'Rust'],
+  aiFrameworks: ['TensorFlow', 'PyTorch', 'Computer Vision', 'NLP', 'RAG Models'],
+  webTech: ['React.js', 'Node.js', 'Flask', 'Django', 'FastAPI', 'RESTful APIs'],
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
+  cloud: ['Azure', 'AWS', 'Firebase', 'Vercel'],
+  tools: ['Git', 'Docker', 'CI/CD', 'Linux', 'Pandas', 'NumPy'],
+  focus: ['AI Safety', 'User Experience', 'Cross-functional Collaboration', 'Product Development'],
+  achievements: {
+                  competitions: ['NASA Space Apps Global Finalist', 'Prototypes for Humanity 2024 Finalist'],
+                  impact: ['2,000+ daily users served', '99.9% uptime systems', 'SOC 2 compliance'],
+                  community: ['50+ students mentored', 'AI/ML workshop leader', 'Algorithms Club Board']
+                },
+  currentProjects: {
+                    phoenixEye: 'AI wildfire prevention with 95% satellite image accuracy'
+                   }
 }
 
 ```
