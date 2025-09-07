@@ -1,27 +1,5 @@
 <h1 align="center"> Chema here! ( ͡⌐■_-■)</h1>
 
-```javascript
-const Chema = {
-  pronouns: 'He' | 'Him',
-  pastCompanies: ['Phoenix Eye', 'Sidepocket Inc''Oracle' 'Purdue'],
-  code: ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'SQL', 'Rust'],
-  aiFrameworks: ['TensorFlow', 'PyTorch', 'Computer Vision', 'NLP', 'RAG Models'],
-  webTech: ['React.js', 'Node.js', 'Flask', 'Django', 'FastAPI', 'RESTful APIs'],
-  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
-  cloud: ['Azure', 'AWS', 'Firebase', 'Vercel'],
-  tools: ['Git', 'Docker', 'CI/CD', 'Linux', 'Pandas', 'NumPy'],
-  focus: ['AI Safety', 'User Experience', 'Cross-functional Collaboration', 'Product Development'],
-  achievements: {
-                  competitions: ['NASA Space Apps Global Finalist', 'Prototypes for Humanity 2024 Finalist'],
-                  impact: ['2,000+ daily users served', '99.9% uptime systems', 'SOC 2 compliance'],
-                  community: ['50+ students mentored', 'AI/ML workshop leader', 'Algorithms Club Board']
-                },
-  currentProjects: {
-                    phoenixEye: 'AI wildfire prevention with 95% satellite image accuracy'
-                   }
-}
-
-```
 
 
 <h3 align="center">computer science student who wants to use his passion and knowledge to craft a brighter reality</h3>
@@ -52,6 +30,30 @@ const Chema = {
 <a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-soto-valenzuela-070a2626b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé maría soto valenzuela" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gorchon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gorchon" height="30" width="40" /></a>
 </p>
+
+```javascript
+const Chema = {
+  pronouns: 'He' | 'Him',
+  pastCompanies: ['Phoenix Eye', 'Sidepocket Inc''Oracle' 'Purdue'],
+  code: ['Python', 'JavaScript', 'TypeScript', 'Java', 'C++', 'SQL', 'Rust'],
+  aiFrameworks: ['TensorFlow', 'PyTorch', 'Computer Vision', 'NLP', 'RAG Models'],
+  webTech: ['React.js', 'Node.js', 'Flask', 'Django', 'FastAPI', 'RESTful APIs'],
+  databases: ['PostgreSQL', 'MySQL', 'MongoDB'],
+  cloud: ['Azure', 'AWS', 'Firebase', 'Vercel'],
+  tools: ['Git', 'Docker', 'CI/CD', 'Linux', 'Pandas', 'NumPy'],
+  focus: ['AI Safety', 'User Experience', 'Cross-functional Collaboration', 'Product Development'],
+  achievements: {
+                  competitions: ['NASA Space Apps Global Finalist', 'Prototypes for Humanity 2024 Finalist'],
+                  impact: ['2,000+ daily users served', '99.9% uptime systems', 'SOC 2 compliance'],
+                  community: ['50+ students mentored', 'AI/ML workshop leader', 'Algorithms Club Board']
+                },
+  currentProjects: {
+                    phoenixEye: 'AI wildfire prevention with 95% satellite image accuracy'
+                   }
+}
+
+```
+
 
 
 <a href=#><img src="contributionSnake.svg"></a>
