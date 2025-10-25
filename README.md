@@ -9,7 +9,7 @@
 
 ### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
 
--  Data Science and Mathematical Techniques Enthusiast 🤖💡
+-  Deep Learning and Mathematical Techniques Enthusiast 🤖💡
   
 -  I am currently working as a full time researcher at **Purdue University!** 
   
