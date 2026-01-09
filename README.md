@@ -11,7 +11,7 @@
 
 -  Deep Learning and Mathematical Techniques Enthusiast 🤖💡
   
--  I am currently working as a full time researcher at **Purdue University!** 
+-  I am currently working as a full time Deep Learning Researcher Intern at **Purdue University!** 
   
 -  Working as a **Software Engineer** at Sidepocket
 
@@ -19,11 +19,11 @@
 
 -  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
 
--  Ask me about **C++, python, Flask, React, Nextjs, algorithms and more**
+-  Ask me about **C++, python, Nextjs, algorithms and Deep Learning**
 
 -  To reach me send a Email to **chemasmas@outlook.es** or **A01254831@TEC.MX**
   
--  Fun facts **I enjoy hit the Gym & and salsa dancing**
+-  Fun facts **I enjoy going to the Gym and salsa dancing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
