@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">computer science student who wants to use his passion and knowledge to craft a brighter reality</h3>
+<h3 align="center">Just a CS Engineer who wants to use his passion and knowledge to craft a brighter reality</h3>
 
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
@@ -13,7 +13,7 @@
   
 -  I am currently working as a full time Deep Learning Researcher Intern at **Purdue University!** 
   
--  Working as a **Software Engineer** at Sidepocket
+-  Working as a **SR Software Engineer** at Sidepocket
 
 -  I am the president of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 900 members)
 
