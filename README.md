@@ -21,7 +21,7 @@
 
 -  Ask me about **C++, python, Nextjs, algorithms and Deep Learning**
 
--  To reach me send a Email to **chemasmas@outlook.es** or **A01254831@TEC.MX**
+-  To reach me send a Email to **chemasmas@outlook.es**
   
 -  Fun facts **I enjoy going to the Gym and salsa dancing**
 
